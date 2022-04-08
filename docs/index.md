@@ -1,5 +1,7 @@
 # APIの使い方
 
+元ドメイン:`https://apiwebshot.dmsblog.cf`
+
 ## POST (/api)
 
 主にスクリーンショットを取るためのapiです。
@@ -9,4 +11,5 @@
 {
     "url": "https://example.com"
 }
-```を送信してください。
+```
+を送信してください。
